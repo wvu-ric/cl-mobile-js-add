@@ -6,4 +6,12 @@ var num2 = Number(snum2);
 
 var sum = num1 + num2;
 
-alert("Your sum is:" + sum);
+if (isNaN(sum)) {
+  alert("This is not a number");
+}
+else {
+     alert("Your sum is:" + sum);
+}
+
+alert(num1)
+alert(num2)
