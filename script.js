@@ -1,4 +1,9 @@
 
+function check(ifNum){
+  num = 
+}
+
+
 var num1 = prompt("Enter a number please.");
 var num2 = prompt("Enter another number.");
 
